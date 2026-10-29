@@ -1,0 +1,26 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Challenge material - never commit samples, archives or evidence
+*.zip
+*.7z
+*.rar
+*.evtx
+*.pf
+*.pcap
+*.pcapng
+*.raw
+*.mem
+*.vmdk
+artifacts/
+samples/
+
+# Personal lab notes (may contain flags)
+notes/
